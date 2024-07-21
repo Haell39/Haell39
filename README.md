@@ -100,11 +100,14 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
 ---
 
 ### ✍️ Random Dev Quote:
+
 <div align="center">
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A+computação+é+nenhuma+outra+coisa+senão+uma+matemática+disfarçada.&author=Edsger+W.+Dijkstra)
 
 </div>
+
+
 
 ---
 
