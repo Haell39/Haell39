@@ -56,8 +56,7 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
 
 ### 🌟 Contribuições Recentes:
 
-[![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical&hide_border=false)<br/>
 
 ---
 
