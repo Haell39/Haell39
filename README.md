@@ -1,25 +1,22 @@
-
-
 ### Sobre mim 💫
-Prazer, sou Rafael Andrade. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FICR. Estudei Ciência da Computação por 2 anos na UFRPE e concluí o curso técnico de Assistente Administrativo no IFRS.<br>
-Estou trabalhando em um site de músicas lo-fi only 🎵, uma extensão para gerar senhas confiáveis 🔒 e um site para mostrar a previsão do clima ☁️.<br>
-Meu foco de estudos é Ciência e análise de dados 📊, além de automação 🤖.
 
-
+Sou Rafael Andrade, estudante de Análise e Desenvolvimento de Sistemas na FICR, com experiência em Ciência da Computação(UFRPE) e Administração(Chesf e IFRS). Meu foco é em Análise de Dados, Automação e Backend, utilizando Python, SQL, Excel e Power BI. Atualmente, estou estudando Go e Vue para expandir minhas habilidades. Participei de projetos acadêmicos, incluindo um enviado ao Porto Digital, que reforçou minha experiência prática e trabalho em equipe. Estou aqui para compartilhar e ter acesso a diversos tipos de conhecimento e contribuir para a comunidade no GitHub.
 
 <br>
 
 ### 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Raeldatasci)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Rh4ell)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KodeversityOfficial) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KodeversityOfficial)
 
 </div>
 
 ---
 
 ### 💻 Tech Stack:
+
 <div align="">
   
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -27,10 +24,12 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+  ![SQL](https://img.shields.io/badge/sql-%2300ADEF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
@@ -42,12 +41,6 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
   <img src="https://github-readme-stats.vercel.app/api?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-left: 50px;" />
 </div>
-
-
-  
-
-
-
 
 ---
 
@@ -68,9 +61,8 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
 ---
 
 ### ✨ Projetos Destacados:
-<div align="center">
-  
 
+<div align="center">
 
 <a href="https://github.com/Haell39/Python/tree/main/Mini%20projects(No%20Folder)">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Python&theme=radical" alt="Mini Projects Stats">
@@ -80,13 +72,12 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=JAVA&theme=radical" alt="JAVA Stats">
 </a>
 
-
-
 </div>
 
 ---
 
 ### Top Contributed Repo 🔝 :
+
 <div align="center">
   
 ![](https://github-contributor-stats.vercel.app/api?username=Haell39&limit=5&theme=radical&combine_all_yearly_contributions=true)
@@ -103,11 +94,10 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
 
 </div>
 
-
-
 ---
 
 ### 💰 You can help me by Donating:
+
 <div align="center">
   
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rhaell)
@@ -117,6 +107,7 @@ Meu foco de estudos é Ciência e análise de dados 📊, além de automação �
 ---
 
 ### Meu Contato 📞 📩
+
 <div align="center">
   
 E-mail: rafaelsantoshome@outlook.com 📧<br>
