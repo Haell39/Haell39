@@ -26,10 +26,10 @@ Sou Rafael Andrade, estudante de Análise e Desenvolvimento de Sistemas na FICR,
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![SQL](https://img.shields.io/badge/sql-%2300ADEF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Vue.js](https://img.shields.io/badge/vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black) 
   
 </div>
 
