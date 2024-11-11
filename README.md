@@ -62,17 +62,7 @@ Sou Rafael Andrade, estudante de Análise e Desenvolvimento de Sistemas na FICR,
 
 ### ✨ Projetos Destacados:
 
-<div align="center">
-
-<a href="https://github.com/Haell39/Python/tree/main/Mini%20projects(No%20Folder)">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Python&theme=radical" alt="Mini Projects Stats">
-</a>
-
-<a href="https://github.com/Haell39/JAVA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=JAVA&theme=radical" alt="JAVA Stats">
-</a>
-
-</div>
+<div align="center"> <a href="https://github.com/Haell39/PythonLab"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=PythonLab&theme=radical" alt="PythonLab Stats"> </a> <a href="https://github.com/Haell39/JavaCore"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=JavaCore&theme=radical" alt="JavaCore Stats"> </a> <a href="https://github.com/Haell39/AcademyC"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=AcademyC&theme=radical" alt="AcademyC Stats"> </a> </div>
 
 ---
 
