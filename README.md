@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-Sou Rafael Andrade, estudante de Análise e Desenvolvimento de Sistemas na FICR, com experiência em Ciência da Computação(UFRPE) e Administração(Chesf e IFRS). Meu foco é em Análise de Dados, Automação e Backend, utilizando Python, SQL, Excel e Power BI. Atualmente, estou estudando Go e Vue para expandir minhas habilidades. Participei de projetos acadêmicos, incluindo um enviado ao Porto Digital, que reforçou minha experiência prática e trabalho em equipe. Estou aqui para compartilhar e ter acesso a diversos tipos de conhecimento e contribuir para a comunidade no GitHub.
+Sou Rafael Andrade, estudante de Análise e Desenvolvimento de Sistemas na FICR, com experiência em Ciência da Computação(UFRPE) e Administração(Chesf e IFRS). Meu foco é a área de dados, e de desenvolviment. Tenho experiência com as linguagens: Python, SQL, Java, e JavaScript, e com as ferramentas Excel, Power BI, Git e Github. Atualmente, estou estudando as tecnologias de SaaS, FARM e Blockchain para expandir minhas habilidades. Participei de projetos acadêmicos, incluindo 2 enviados ao Porto Digital, que reforçou minha experiência prática e trabalho em equipe. Estou aqui para compartilhar e ter acesso a diversos tipos de conhecimento e contribuir para a comunidade no GitHub.
 
 <br>
 
