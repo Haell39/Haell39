@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, possuo experiência acadêmica em Ciência da Computação (UFRPE) e profissional em Administração (Chesf). Meu foco é na área de dados e de desenvolvimento. Tenho experiência prática com Python, SQL, Java e JavaScript, e também com as ferramentas Excel, Power BI, Git e GitHub. Atualmente, estudo tecnologias como SaaS, FARM e Blockchain para expandir minhas habilidades. Participei de projetos acadêmicos em colaboração com o Porto Digital, que aprimoraram minha experiência prática e fortaleceram minhas habilidades de trabalho em equipe. Estou aqui para compartilhar e adquirir conhecimento, contribuindo para a comunidade no GitHub.
+Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho sólida base em programação e análise de dados. Possuo experiência comprovada com as linguagens Python, Java e SQL, e com as ferramentas Power BI, Excel e Git, além de experiência acadêmica com as metodologias ágeis Scrum e Kanban. Participo de uma residência tecnológica onde desenvolvo projetos inovadores em colaborações com o Porto Digital, e atualmente, estudo tecnologias como SaaS, e FARM para expandir minhas habilidades de desenvolvimento Full-Stack.
 
 <br>
 
