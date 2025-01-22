@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho sólida base em programação e análise de dados. Possuo experiência comprovada com as linguagens Python, Java e SQL, e com as ferramentas Power BI, Excel e Git, além de experiência acadêmica com as metodologias ágeis Scrum e Kanban. Participo de uma residência tecnológica onde desenvolvo projetos inovadores em colaborações com o Porto Digital, e atualmente, estudo tecnologias como SaaS, e FARM para expandir minhas habilidades de desenvolvimento Full-Stack.
+Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho base sólida em desenvolvimento e análise de dados.
 
 <br>
 
