@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho base sólida em desenvolvimento e análise de dados.
+Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho uma base sólida na área de desenvolvimento e de dados.
 
 <br>
 
