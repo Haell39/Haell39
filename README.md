@@ -28,7 +28,6 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
   ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
   ![SQL](https://img.shields.io/badge/sql-%2300ADEF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 </div>
 
