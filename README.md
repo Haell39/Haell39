@@ -62,18 +62,17 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 ### ✨ Projetos Destacados:
 
 <div align="center"> 
-<a href="https://github.com/Haell39/VExpenses_Desafio_Tecnico"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=VExpenses_Desafio_Tecnico&theme=radical" alt="VExpenses Stats"> 
-</a> 
-<a href="https://github.com/Haell39/Ecommercedb"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Ecommercedb&theme=radical" alt="Ecommercedb Stats"> 
-</a> 
-<a href="https://github.com/Haell39/PythonLab"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=PythonLab&theme=radical" alt="PythonLab Stats"> 
+<a href="https://github.com/Haell39/My_Folio"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio Stats"> 
 </a>
-<a href="https://github.com/Haell39/JavaCore"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=JavaCore&theme=radical" alt="JavaCore Stats"> 
-</a> 
+
+<a href="https://github.com/Haell39/Applied-WebDevelopment"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Applied Web Development Stats"> 
+</a>
+
+<a href="https://github.com/Haell39/DesafioTecnico-1A"> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=DesafioTecnico-1A&theme=radical" alt="Desafio Tecnico 1A Stats"> 
+</a>
 </div>
 
 ---
