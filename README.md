@@ -100,7 +100,7 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 
 <div align="center">
   
-E-mail: rafaelsantoshome@outlook.com 📧<br>
+E-mail: rafaeldutrapro@gmail.com 📧<br>
 WhatsApp: 81999654790 📱<br>
 
 </div>
