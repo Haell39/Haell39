@@ -133,8 +133,8 @@
 E-mail: rafaeldutrapro@gmail.com 📧<br>
 WhatsApp: 81999654790 📱<br>
 
-</div>
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Haell39&theme=dark)](https://git.io/streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
+
+</div>
