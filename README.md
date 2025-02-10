@@ -57,8 +57,6 @@
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
 
-[<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=haell39" alt="GitHub Streak" /></a>](https://streak-stats.demolab.com?user=MatinT-SA&theme=react&layout=compact)
-
 </div>
 
 ---
