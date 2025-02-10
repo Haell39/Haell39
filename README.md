@@ -1,7 +1,5 @@
 ### Sobre mim 💫
 
----
-
 🎯 **Data Analyst & Developer** Focado em Análise de dados, Desenvolvimento e inovação.  
 📊 **Experiência com:** Desenvolvimento web, Análise e manipulação de grandes volumes de dados.  
 🛠 **Habilidades:** Frontend (HTML, CSS, JavaScript), Backend (Python, FastAPI), Data Science (Jupyter Notebooks, scikit-learn, pandas, NumPy, Matplotlib), Database(SQL, MongoDB).  
