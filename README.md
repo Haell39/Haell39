@@ -1,8 +1,12 @@
 ### Sobre mim 💫
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, tenho uma base sólida na área de desenvolvimento e de dados.
+---
 
-<br>
+🎯 **Data Analyst & Developer** Focado em Análise de dados, Desenvolvimento e inovação.  
+📊 **Experiência com:** Desenvolvimento web, Análise e manipulação de grandes volumes de dados.  
+🛠 **Habilidades:** Frontend (HTML, CSS, JavaScript), Backend (Python, FastAPI), Data Science (Jupyter Notebooks, scikit-learn, pandas, NumPy, Matplotlib), Database(SQL, MongoDB).  
+🚀 **Atualmente:** Criando projetos de Data Science, Web e soluções inovadoras.  
+📩 **Contato:** Aberto para oportunidades de emprego, freelance e colaborações!
 
 ### 🌐 Socials:
 
@@ -35,16 +39,26 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 
 ### 📊 GitHub Stats:
 
-<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" style="margin-left: 50px;" />
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 40px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas">
+      </td>
+      <td style="padding-left: 40px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 🌟 Contribuições Recentes:
 
-<img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical" alt="Contribuições Recentes">
+</div>
 
 ---
 
