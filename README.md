@@ -60,18 +60,19 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 
 ### ✨ Projetos Destacados:
 
-<div align="center"> 
-<a href="https://github.com/Haell39/My_Folio"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio Stats"> 
-</a>
-
-<a href="https://github.com/Haell39/Applied-WebDevelopment"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Applied Web Development Stats"> 
-</a>
-
-<a href="https://github.com/Haell39/DesafioTecnico-1A"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=DesafioTecnico-1A&theme=radical" alt="Desafio Tecnico 1A Stats"> 
-</a>
+<div align="center">
+  <a href="https://github.com/Haell39/My_Folio"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio Stats"> 
+  </a>
+  <a href="https://github.com/Haell39/FARM_Stack-CRUDapp"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack-CRUDapp Stats"> 
+  </a>
+  <a href="https://github.com/Haell39/Previsao-risco-credito"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=radical" alt="Previsao risco credito Stats"> 
+  </a>
+  <a href="https://github.com/Haell39/Applied-WebDevelopment"> 
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Applied Web Development Stats"> 
+  </a>
 </div>
 
 ---
