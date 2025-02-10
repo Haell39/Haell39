@@ -44,7 +44,7 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 
 ### 🌟 Contribuições Recentes:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical&hide_border=false)<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
 
 ---
 
@@ -61,18 +61,34 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, ten
 ### ✨ Projetos Destacados:
 
 <div align="center">
-  <a href="https://github.com/Haell39/My_Folio"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio Stats"> 
-  </a>
-  <a href="https://github.com/Haell39/FARM_Stack-CRUDapp"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack-CRUDapp Stats"> 
-  </a>
-  <a href="https://github.com/Haell39/Previsao-risco-credito"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=radical" alt="Previsao risco credito Stats"> 
-  </a>
-  <a href="https://github.com/Haell39/Applied-WebDevelopment"> 
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Applied Web Development Stats"> 
-  </a>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/Haell39/My_Folio">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio - Portfólio Pessoal">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack CRUD App">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/Haell39/Previsao-risco-credito">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=radical" alt="Previsão de Risco de Crédito">
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Haell39/Applied-WebDevelopment">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Desenvolvimento Web Aplicado">
+        </a>
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 ---
