@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-🎯 **Data Analyst & Developer** Focado em Análise de dados, Desenvolvimento e inovação.  
+🎯 **Data Analyst & Developer:** Focado em Análise de dados, Desenvolvimento e inovação.  
 📊 **Experiência com:** Desenvolvimento web, Análise e manipulação de grandes volumes de dados.  
 🛠 **Habilidades:** Frontend (HTML, CSS, JavaScript), Backend (Python, FastAPI), Data Science (Jupyter Notebooks, scikit-learn, pandas, NumPy, Matplotlib), Database(SQL, MongoDB).  
 🚀 **Atualmente:** Criando projetos de Data Science, Web e soluções inovadoras.  
@@ -78,32 +78,32 @@
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Haell39/My_Folio">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=My_Folio&theme=radical" alt="My Folio - Portfólio Pessoal">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack CRUD App">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Haell39/Previsao-risco-credito">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=radical" alt="Previsão de Risco de Crédito">
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Haell39/Applied-WebDevelopment">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Desenvolvimento Web Aplicado">
-        </a>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Haell39/Pagina_Portifolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=radical" alt="Página Portfólio">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack CRUD App">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Haell39/Python-AppHub">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Python-AppHub&theme=radical" alt="Python AppHub">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Haell39/Applied-WebDevelopment">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Desenvolvimento Web Aplicado">
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
