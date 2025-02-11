@@ -55,9 +55,10 @@
 ### 🌟 Contribuições:
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
-
+  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
 
 </div>
 
