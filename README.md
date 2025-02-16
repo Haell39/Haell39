@@ -1,10 +1,22 @@
 ### Sobre mim 💫
 
-🎯 **Data Analyst & Developer:** Focado em Análise de dados, Desenvolvimento e inovação.  
-📊 **Experiência com:** Desenvolvimento web, Análise e manipulação de grandes volumes de dados.  
-🛠 **Habilidades:** Frontend (HTML, CSS, JavaScript), Backend (Python, FastAPI), Data Science (Jupyter Notebooks, scikit-learn, pandas, NumPy, Matplotlib), Database(SQL, MongoDB).  
-🚀 **Atualmente:** Criando projetos de Data Science, Web e soluções inovadoras.  
-📩 **Contato:** Aberto para oportunidades de emprego, freelance e colaborações!
+# Olá! 👋
+
+Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. Minha stack tecnológica é:
+
+🌐 JavaScript - Desenvolvimento web e aplicações frontend <br>
+🐍 Python - Para análise e ciência de dados, e FastAPI <br>
+🎯 C# - Expandindo horizontes no desenvolvimento .NET
+
+Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
+
+💡 Atualmente aprofundando conhecimentos em:
+
+- Ciência de Dados e IA com Python
+- Desenvolvimento Web Moderno com JavaScript utilizando React, Express.js e Node.js
+- Aplicações .NET com C#
+
+📚 Abaixo está um pouco da minha trajetória e alguns projetos!
 
 ### 🌐 Socials:
 
@@ -20,17 +32,18 @@
 ### 💻 Tech Stack:
 
 <div align="">
-  
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![SQL](https://img.shields.io/badge/sql-%2300ADEF.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-  ![Power BI](https://img.shields.io/badge/power%20bi-%23F2C94C.svg?style=for-the-badge&logo=powerbi&logoColor=black)
-  ![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+
 </div>
 
 ---
