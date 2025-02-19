@@ -2,12 +2,10 @@
 
 # Olá! 👋
 
-Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. Minha stack tecnológica é:
+Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. As tecnologias que trabalho são:
 
-🚀 Stack FARM - Desenvolvimento web  moderno com FastAPI, React e MongoDB.
-
-📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy,  Scikit-learn e Seaborn.
-
+🚀 Stack FARM - Desenvolvimento web  moderno com FastAPI, React e MongoDB. <br>
+📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy,  Scikit-learn e Seaborn.<br>
 ⚡ Stack .NET - Expandindo horizontes no desenvolvimento C# com ASP.NET MVC
 
 Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
