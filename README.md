@@ -4,9 +4,11 @@
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. Minha stack tecnológica é:
 
-🌐 JavaScript - Desenvolvimento web e aplicações frontend <br>
-🐍 Python - Para análise e ciência de dados, e FastAPI <br>
-🎯 C# - Expandindo horizontes no desenvolvimento .NET
+🚀 Stack FARM - Desenvolvimento web  moderno com FastAPI, React e MongoDB.
+
+📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy,  Scikit-learn e Seaborn.
+
+⚡ Stack .NET - Expandindo horizontes no desenvolvimento C# com ASP.NET MVC
 
 Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
 
