@@ -13,7 +13,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 💡 Atualmente aprofundando conhecimentos em:
 
 - Ciência de Dados e IA com Python
-- Desenvolvimento Web Moderno com JavaScript utilizando React, Express.js e Node.js
+- Desenvolvimento Web Moderno e Responsivo utilizando JavaScript e Tailwind CSS
 - Aplicações .NET com C#
 
 📚 Abaixo está um pouco da minha trajetória e alguns projetos!
