@@ -60,27 +60,29 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <tr>
     <td>
       <a href="https://github.com/Haell39/Pagina_Portifolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=radical" alt="Página Portfólio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=tokyonight " alt="Página Portfólio">
       </a>
     </td>
     <td>
       <a href="https://github.com/Haell39/controle-financeiro_FARM-Stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=controle-financeiro_FARM-Stack&theme=radical" alt="Controle Financeiro - FARM Stack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=controle-financeiro_FARM-Stack&theme=tokyonight" alt="Controle Financeiro - FARM Stack">
 </a>
 </td>
 
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/Haell39/Python-AppHub">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Python-AppHub&theme=radical" alt="Python AppHub">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Haell39/Applied-WebDevelopment">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=radical" alt="Desenvolvimento Web Aplicado">
-      </a>
-    </td>
+<td>
+  <a href="https://github.com/Haell39/HR-Analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
+  </a>
+</td>
+
+<td>
+    <a href="https://github.com/Haell39/Applied-WebDevelopment">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=tokyonight" alt="Desenvolvimento Web Aplicado">
+    </a>
+</td>
+
   </tr>
 </table>
 
@@ -94,7 +96,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <table>
     <tr>
       <td style="padding-left: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=dark" alt="GitHub Stats">
       </td>
     </tr>
   </table>
@@ -106,9 +108,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=dark)](https://git.io/streak-stats)
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyonight&hide_border=true" alt="GitHub Activity">
 
 </div>
 
@@ -118,7 +120,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=radical&no-frame=false&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=tokyonight&no-frame=false&margin-w=15)
 
 </div>
 
@@ -130,7 +132,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
   
-![](https://github-contributor-stats.vercel.app/api?username=Haell39&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Haell39&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -140,7 +142,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A+computação+é+nenhuma+outra+coisa+senão+uma+matemática+disfarçada.&author=Edsger+W.+Dijkstra)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A+computação+é+nenhuma+outra+coisa+senão+uma+matemática+disfarçada.&author=Edsger+W.+Dijkstra)
 
 </div>
 
