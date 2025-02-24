@@ -60,7 +60,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <tr>
     <td>
       <a href="https://github.com/Haell39/Pagina_Portifolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=tokyonight " alt="Página Portfólio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=tokyonight" alt="Página Portfólio">
       </a>
     </td>
     <td>
