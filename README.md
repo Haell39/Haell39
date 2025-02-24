@@ -64,10 +64,11 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
       </a>
     </td>
     <td>
-      <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=radical" alt="FARM Stack CRUD App">
-      </a>
-    </td>
+      <a href="https://github.com/Haell39/controle-financeiro_FARM-Stack">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=controle-financeiro_FARM-Stack&theme=radical" alt="Controle Financeiro - FARM Stack">
+</a>
+</td>
+
   </tr>
   <tr>
     <td>
