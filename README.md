@@ -1,6 +1,6 @@
 ### Sobre mim 💫
 
-# Olá! 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. As tecnologias que trabalho são:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
