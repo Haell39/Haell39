@@ -120,7 +120,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=tokyonight&no-frame=false&margin-w=15)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=dark&no-frame=false&margin-w=15)
 
 </div>
 
