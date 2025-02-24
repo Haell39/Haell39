@@ -120,7 +120,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 <div align="center">
   
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=dark&no-frame=false&margin-w=15)
+![Snake animation](https://github.com/Haell39/Haell39/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
