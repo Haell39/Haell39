@@ -45,9 +45,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <div align="center">
 
 <div align="center">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55" style="margin: 0 5px;"/>
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60" style="margin: 0 5px;"/>
-    <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 5px;"/>
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55" style="margin: 0 8px;"/>
+    <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 8px;"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60" style="margin: 0 8px;"/>
 </div>
 
 <!--
