@@ -22,7 +22,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome)
-[!][Kaggle](https://www.kaggle.com/raeldata)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%23020F7A.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/raeldata)
 
 </div>
 
