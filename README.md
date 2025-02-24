@@ -1,11 +1,12 @@
 ### Sobre mim 💫
 
-# Olá! 👋
+# Olá! 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado na área de dados e desenvolvimento de software. As tecnologias que trabalho são:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-🚀 Stack FARM - Desenvolvimento web  moderno com FastAPI, React e MongoDB. <br>
-📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy,  Scikit-learn e Seaborn.<br>
+🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
+📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Seaborn.<br>
 ⚡ Stack .NET - Expandindo horizontes no desenvolvimento C# com ASP.NET MVC
 
 Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
@@ -31,18 +32,17 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ### 💻 Tech Stack:
 
-<div align="">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=postgresql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-%23217346.svg?style=flat&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C94C?style=flat&logo=powerbi&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=flat&logo=csharp&logoColor=white)
+<div align="center">
+ <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
+<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sql" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/msexcel/msexcel-icon.svg" alt="excel" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+ <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="55" height="55"/>
 
 </div>
 
@@ -53,9 +53,6 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <div align="center">
   <table>
     <tr>
-      <td style="padding-right: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Linguagens mais usadas">
-      </td>
       <td style="padding-left: 40px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
       </td>
