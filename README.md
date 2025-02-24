@@ -30,32 +30,29 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 ### 💻 Tech Stack:
 
 <div align="center">
-<h2> Forte </h2>
-<div align="center">
-<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
-<img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/Power-BI-Logo.svg" alt="Power BI" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+    <span style="font-size: 1.5em; font-weight: bold; margin-bottom: 5px; display: inline-block;">Forte</span>  
+    <br> <!-- Quebra de linha manual para separar título e tecnologias -->
+    <div align="center">
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+        <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+        <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
+        <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
+        <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/Power-BI-Logo.svg" alt="Power BI" width="60" height="60"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
+    </div>
 </div>
 
-<div align="center">
-<h2> Em Desenvolvimento </h2>
-<div align="center">
+<div align="center" style="margin-top: 20px;"> <!-- Adicionado espaço acima -->
+    <span style="font-size: 1.5em; font-weight: bold; margin-bottom: 15px; display: inline-block;">Em Desenvolvimento</span>  
+    <br> <!-- Quebra de linha manual para separar título e tecnologias -->
 
-<div align="center">
-    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55" style="margin: 0 15px;"/>
-    <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 15px;"/>
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60" style="margin: 0 15px;"/>
-</div>
-
-<!--
-<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="55" height="55"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="sql" width="55" height="55"/>
--->
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60" style="margin: 0 15px;"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60" style="margin: 0 15px;"/>
 
 </div>
+
+<hr width="100%"> <!-- Linha abaixo dos ícones -->
 
 ### 📊 GitHub Stats:
 
