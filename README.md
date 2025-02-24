@@ -52,42 +52,6 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ---
 
-### 📊 GitHub Stats:
-
-<div align="center">
-  <table>
-    <tr>
-      <td style="padding-left: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-### 🌟 Contribuições:
-
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
-
-</div>
-
----
-
-### GitHub Trophies: 🏆
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=radical&no-frame=false&margin-w=15)
-
-</div>
-
----
-
 ### ✨ Projetos Destacados:
 
 <div align="center">
@@ -123,7 +87,45 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ---
 
-### Top Contributed Repo 🔝 :
+### 📊 Estatísticas do GitHub:
+
+<div align="center">
+  <table>
+    <tr>
+      <td style="padding-left: 40px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=radical" alt="GitHub Stats">
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🌟 Contribuições:
+
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=radical)](https://git.io/streak-stats)
+  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=radical&hide_border=true" alt="GitHub Activity">
+
+</div>
+
+---
+
+### Troféus GitHub: 🏆
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Haell39&theme=radical&no-frame=false&margin-w=15)
+
+</div>
+
+---
+
+---
+
+### Repositórios com maior Contribuições 🔝 :
 
 <div align="center">
   
@@ -133,7 +135,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ---
 
-### ✍️ Random Dev Quote:
+### ✍️ Reflexão de um Desenvolvedor:
 
 <div align="center">
 
