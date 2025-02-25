@@ -2,7 +2,7 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Meu nome é Rafael, estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento de software. As tecnologias com as quais trabalho incluem:
+Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento web. As tecnologias com as quais trabalho incluem:
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
