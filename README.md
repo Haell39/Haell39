@@ -29,27 +29,31 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ### 💻 Tech Stack
 
-<h3 align="center">Forte</h3>
+<h3 align="center">Dados</h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/Power-BI-Logo.svg" alt="Power BI" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 </p>
 
 ---
 
-<h3 align="center">Em Desenvolvimento</h3>
+<h3 align="center">Desenvolvimento</h3>
 
 <p align="center">
+  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/css3/css3-icon.svg" alt="css" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/html5/html5-icon.svg" alt="html" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 </p>
 
+
+
+  <!-- <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60"/> -->
 ---
 
 ### ✨ Projetos Destacados:
