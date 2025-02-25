@@ -116,17 +116,11 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ---
 
-### Troféus GitHub: 🏆
 
-<div align="center">
-  
-![Snake animation](https://github.com/Haell39/Haell39/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
----
 
----
 
 ### Repositórios com maior Contribuições 🔝 :
 
@@ -147,6 +141,14 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 </div>
 
 ---
+
+
+
+<div align="center">
+  
+
+
+</div>
 
 ### Meu Contato 📞 📩
 
