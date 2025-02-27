@@ -1,9 +1,9 @@
-### Sobre mim 💫
+### Sobre mim <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp5bWdnNDRna255dTAzazBza2p5ZW43bjZrZHd0bXAwYmVsa3MzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30">
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento web. As tecnologias com as quais trabalho incluem:
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp5bWdnNDRna255dTAzazBza2p5ZW43bjZrZHd0bXAwYmVsa3MzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30">
+
 
 🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
 📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
