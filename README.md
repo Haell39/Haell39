@@ -127,12 +127,11 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyonight&hide_border=true" alt="GitHub Activity">
       </td>
       <td style="padding-left: 40px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2thaHQydmJpYW1lN2V4dGN5YnZleGZpcXhqbXgzdnF4cHhsNnNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2thaHQydmJpYW1lN2V4dGN5YnZleGZpcXhqbXgzdnF4cHhsNnNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200">
       </td>
     </tr>
   </table>
 </div>
-
 
 </div>
 
