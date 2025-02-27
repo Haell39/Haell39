@@ -4,7 +4,6 @@
 
 Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento web. As tecnologias com as quais trabalho incluem:
 
-
 🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
 📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
 ⚡ Stack .NET - Expandindo horizontes no desenvolvimento C# com ASP.NET MVC
@@ -51,14 +50,13 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 </p>
 
-
-
   <!-- <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="50 height="50/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="55" height="55"/>
    -->
+
 ---
 
 ### ✨ Projetos Destacados:
@@ -104,6 +102,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <div align="center">
   <table>
     <tr>
+    <td style="padding-left: 40px;">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ5N2F1eDJsaHplOGt3YWhhYXVxZWY0Y2JwbnZ4M2oyOTZjYWRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
+      </td>
       <td style="padding-left: 40px;">
         <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=dark" alt="GitHub Stats">
       </td>
@@ -118,18 +119,26 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=dark)](https://git.io/streak-stats)
-  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyonight&hide_border=true" alt="GitHub Activity">
+
+<div align="center">
+  <table>
+    <tr>
+    <td style="padding-left: 40px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyonight&hide_border=true" alt="GitHub Activity">
+      </td>
+      <td style="padding-left: 40px;">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2thaHQydmJpYW1lN2V4dGN5YnZleGZpcXhqbXgzdnF4cHhsNnNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="400">
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 </div>
 
 ---
 
-
-
 </div>
-
-
 
 ### Repositórios com maior Contribuições 🔝 :
 
@@ -151,11 +160,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ---
 
-
-
 <div align="center">
-  
-
 
 </div>
 
