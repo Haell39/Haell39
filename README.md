@@ -5,7 +5,7 @@
 Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento web. As tecnologias com as quais trabalho incluem:
 
 🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
-📊 Stack Dados - Análise e ciência de dados com Python | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
+📊 Stack Dados - Análise e ciência de dados com Python e SQL | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
 
 Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
 
