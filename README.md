@@ -31,8 +31,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/Power-BI-Logo.svg" alt="Power BI" width="60" height="60"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="55" height="55"/>
 </p>
 
 ---
