@@ -14,7 +14,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 - Ciência de Dados e IA com Python
 - Desenvolvimento Web Moderno e Responsivo utilizando React e Tailwind CSS
 
-📚 Abaixo está um pouco da minha trajetória e alguns projetos!
+📚 Segue a baixo meus principais projetos que desenvolvi até o momento
 
 ### 🌐 Socials:
 
