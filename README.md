@@ -64,28 +64,29 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Haell39/Pagina_Portifolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Pagina_Portifolio&theme=tokyonight" alt="Página Portfólio">
-      </a>
-    </td>
-    <td>
       <a href="https://github.com/Haell39/controle-financeiro_FARM-Stack">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=controle-financeiro_FARM-Stack&theme=tokyonight" alt="Controle Financeiro - FARM Stack">
+    <td>
+  <a href="https://github.com/Haell39/HR-Analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
+  </a>
+</td>
 </a>
 </td>
 
   </tr>
   <tr>
-<td>
-  <a href="https://github.com/Haell39/HR-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
-  </a>
-</td>
 
 <td>
-    <a href="https://github.com/Haell39/Applied-WebDevelopment">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Applied-WebDevelopment&theme=tokyonight" alt="Desenvolvimento Web Aplicado">
+    <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=tokyonight" alt="FARM Stack - CRUD App">
     </a>
+</td>
+  
+<td>
+<a href="https://github.com/Haell39/Previsao-risco-credito">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=tokyonight" alt="Previsão de Risco de Crédito">
+</a>
 </td>
 
   </tr>
