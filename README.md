@@ -42,7 +42,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/mongodb-svgrepo-com.svg" alt="MongoDB" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 
 </p>
