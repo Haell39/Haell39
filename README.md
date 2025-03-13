@@ -2,7 +2,7 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência de dados e desenvolvimento web. As tecnologias com as quais trabalho incluem:
+Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência e análise de dados. As tecnologias com as quais trabalho incluem:
 
 🚀 Stack FARM - Desenvolvimento web moderno com FastAPI, React e MongoDB. <br>
 📊 Stack Dados - Análise e ciência de dados com Python e SQL | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
@@ -12,7 +12,8 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 💡 Atualmente aprofundando conhecimentos em:
 
 - Ciência de Dados e IA com Python
-- Desenvolvimento Web Moderno e Responsivo utilizando React e Tailwind CSS
+- ETL, pipelines de dados e automação com Python e SQL.
+- Machine Learning: Modelagem preditiva, treinamento e validação de modelos com Scikit-learn
 
 📚 Segue a baixo meus principais projetos que desenvolvi até o momento
 
