@@ -12,9 +12,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 💡 Atualmente aprofundando conhecimentos em:
 
-- Analytics & BI com Excel e Power BI
+- Analytics & BI com Excel e Power BI.
 - ETL, pipelines de dados e automação com Python e SQL.
-- Machine Learning: Modelagem preditiva, treinamento e validação de modelos com Scikit-learn
+- Machine Learning: Modelagem preditiva, treinamento e validação de modelos com Scikit-learn.
 
 📚 Segue a baixo meus principais projetos que desenvolvi até o momento
 
