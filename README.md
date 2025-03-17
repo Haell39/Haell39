@@ -65,8 +65,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Haell39/controle-financeiro_FARM-Stack">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=controle-financeiro_FARM-Stack&theme=tokyonight" alt="Controle Financeiro - FARM Stack">
+      <a href="https://github.com/Haell39/stock_price-prediction">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=stock_price-prediction&theme=tokyonight" alt="Stock Price Prediction">
+</a>
     <td>
   <a href="https://github.com/Haell39/HR-Analytics">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
@@ -79,9 +80,9 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <tr>
 
 <td>
-    <a href="https://github.com/Haell39/FARM_Stack-CRUDapp">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=FARM_Stack-CRUDapp&theme=tokyonight" alt="FARM Stack - CRUD App">
-    </a>
+    <a href="https://github.com/Haell39/walmart10k">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=walmart10k&theme=tokyonight" alt="Walmart 10k">
+</a>
 </td>
   
 <td>
