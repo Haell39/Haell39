@@ -6,7 +6,7 @@ Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com
 
  <br>
 📊 Stack Dados - Análise e ciência de dados com Python e SQL | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
-🚀 Stack FARM - Desenvolvimento moderno com FastAPI, React e MongoDB.
+🚀 Stack FARM - Desenvolvimento moderno de aplicativos voltados para ciência de dados com FastAPI, React e MongoDB.
 
 Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
 
@@ -28,32 +28,43 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 ### 💻 Tech Stack
 
-<h3 align="center">Dados</h3>
+<h3 align="center">Ferramentas</h3>
 
 <p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="55" height="55"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
+  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
 </p>
 
----
+<h3 align="center">Bibliotecas</h3>
 
-<h3 align="center">Desenvolvimento</h3>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="55" height="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="55" height="55"/>
+</p>
+
+
+<!-- <h3 align="center">Desenvolvimento</h3>
 
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
   <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/mongodb-svgrepo-com.svg" alt="MongoDB" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/>
 
-</p>
+</p> -->
 
   <!-- <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="55" height="55"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="50 height="50/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="github" width="55" height="55"/>
+
+    
    -->
 
 ---
