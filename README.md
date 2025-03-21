@@ -48,7 +48,6 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="55" height="55"/>
 </p>
 
-
 <!-- <h3 align="center">Desenvolvimento</h3>
 
 <p align="center">
@@ -76,8 +75,10 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Haell39/stock_price-prediction">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=stock_price-prediction&theme=tokyonight" alt="Stock Price Prediction">
+      <a href="https://github.com/Haell39/online_sales-marketplace">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=online_sales-marketplace&theme=tokyonight" alt="Online Sales Marketplace">
+</a>
+
 </a>
     <td>
   <a href="https://github.com/Haell39/HR-Analytics">
