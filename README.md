@@ -8,7 +8,7 @@ Meu nome é Rafael, faço ensino superior de tecnologia e meu foco é a área de
 
 - **Arquitetura de Dados**: Estudo do design e da estruturação de sistemas de dados, incluindo como os dados fluem e são integrados ao longo de diferentes estágios do processo.
 
-- **Machine Learning**: Estudo de modelagem preditiva com bibliotecas como Scikit-learn, PyTorch e Keras.
+- **Machine Learning**: Estudo de modelagem preditiva e processamento de linguagem natural (NLP) com bibliotecas como Scikit-learn, PyTorch e Keras.
 
 - **Cloud & Big Data**: Explorando soluções em nuvem para armazenar e processar grandes volumes de dados.
 
