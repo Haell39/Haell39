@@ -2,55 +2,61 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Meu nome é Rafael, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em ciência e análise de dados. As tecnologias com as quais trabalho incluem:
+Meu nome é Rafael, faço ensino superior de tecnologia e meu foco é a área de ciência e análise de dados. Busco transformar dados em insights estratégicos por meio de técnicas de análise e modelagem.
 
- <br>
-📊 Stack Dados - Análise e ciência de dados com Python e SQL | Jupyter Notebook, Pandas, NumPy, Scikit-learn e Matplotlib.<br>
-🚀 Stack FARM - Desenvolvimento moderno de aplicativos voltados para ciência de dados com FastAPI, React e MongoDB.
+💡 Atualmente, estou expandindo meus conhecimentos em áreas mais avançadas de:
 
-Busco combinar estas tecnologias para criar soluções inovadoras que impactam positivamente no mundo digital.
+- **Arquitetura de Dados**: Estudo do design e da estruturação de sistemas de dados, incluindo como os dados fluem e são integrados ao longo de diferentes estágios do processo.
 
-💡 Atualmente aprofundando conhecimentos em:
+- **Machine Learning**: Estudo de modelagem preditiva com bibliotecas como Scikit-learn, PyTorch e Keras.
 
-- Analytics & BI com Excel e Power BI.
-- ETL, pipelines de dados e automação com Python e SQL.
-- Machine Learning: Modelagem preditiva, treinamento e validação de modelos com Scikit-learn.
+- **Cloud & Big Data**: Explorando soluções em nuvem para armazenar e processar grandes volumes de dados.
 
-📚 Segue a baixo meus principais projetos que desenvolvi até o momento
+📚 Segue a baixo as tecnologias que utilizo e meus principais projetos que desenvolvi até o momento
+<br><br>
 
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@santosrafaelpro) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020F7A.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/raeldata)
 
 </div>
+<br>
 
----
+<h2 align="center">🔹 Tecnologias Utilizadas 🔹</h2>
 
-### 💻 Tech Stack
+<h3 align="left">🔹 Ferramentas</h3>
 
-<h3 align="center">Ferramentas</h3>
-
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/sql-database-generic-svgrepo-com.svg" alt="SQL Database" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/main/SVG/excel-svgrepo-com.svg" alt="Excel" width="55" height="55"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-<h3 align="center">Bibliotecas</h3>
+<h3 align="left">🔹 Bibliotecas Python</h3>
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="70" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" alt="NumPy" width="70" height="60"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="60" height="65"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+</p>
+
+<h3 align="left">🔹 Workspaces</h3>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 <!-- <h3 align="center">Desenvolvimento</h3>
 
 <p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
@@ -152,7 +158,7 @@ Busco combinar estas tecnologias para criar soluções inovadoras que impactam p
 
 </div>
 
-### Repositórios com maior Contribuições 🔝 :
+### 🔝 Repositórios com maior Contribuições
 
 <div align="center">
   
