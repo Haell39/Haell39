@@ -2,17 +2,27 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Meu nome é Rafael, faço ensino superior de tecnologia e meu foco é a área de ciência e análise de dados. Busco transformar dados em insights estratégicos por meio de técnicas de análise e modelagem.
+Meu nome é Rafael, sou estudante de ensino superior em tecnologia com foco em **Ciência e Análise de Dados**. Desenvolvo projetos utilizando **modelagem preditiva**, **estatística** e **visualização de dados** para gerar insights estratégicos.
 
-💡 Atualmente, estou expandindo meus conhecimentos em áreas mais avançadas de:
+💼 Já trabalhei em:
 
-- **Arquitetura de Dados**: Estudo do design e da estruturação de sistemas de dados, incluindo como os dados fluem e são integrados ao longo de diferentes estágios do processo.
+- Análise de vendas  
+- Predição de câncer de mama  
+- Análise e predição de rotatividade de funcionários  
+- Outros projetos práticos e relevantes
 
-- **Machine Learning**: Estudo de modelagem preditiva e processamento de linguagem natural (NLP) com bibliotecas como Scikit-learn, PyTorch e Keras.
+📊 Possuo conhecimento em ferramentas como **Excel** e **Power BI**, além de linguagens e bibliotecas como **Python, SQL, PySpark, Scikit-learn, e PyTorch**.
 
-- **Cloud & Big Data**: Explorando soluções em nuvem para armazenar e processar grandes volumes de dados.
+🚀 Atualmente, estou desenvolvendo um projeto completo envolvendo:
 
-📚 Segue a baixo as tecnologias que utilizo e meus principais projetos que desenvolvi até o momento
+- **SQL e Python**  
+- **Azure Data Factory e Databricks**  
+- **Processamento distribuído com PySpark**  
+- **Integração e orquestração de dados na nuvem**
+
+🌐 Portfólio: [rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/) <br>
+
+📚 Segue a baixo as minhas redes sociais, as tecnologias que utilizo e meus principais projetos que desenvolvi até o momento
 <br><br>
 
 ### 🌐 Socials:
@@ -42,6 +52,7 @@ Meu nome é Rafael, faço ensino superior de tecnologia e meu foco é a área de
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
 <h3 align="left">🔹 Workspaces</h3>
@@ -81,34 +92,39 @@ Meu nome é Rafael, faço ensino superior de tecnologia e meu foco é a área de
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Haell39/online_sales-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=online_sales-marketplace&theme=tokyonight" alt="Online Sales Marketplace">
-</a>
-
-</a>
+      <a href="https://github.com/Haell39/HR-Analytics">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
+      </a>
+    </td>
     <td>
-  <a href="https://github.com/Haell39/HR-Analytics">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
-  </a>
-</td>
-</a>
-</td>
-
+      <a href="https://github.com/Haell39/ML-Aplicada-Diagnostico-Clinico">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=ML-Aplicada-Diagnostico-Clinico&theme=tokyonight" alt="ML Aplicada Diagnóstico Clínico">
+      </a>
+    </td>
   </tr>
   <tr>
-
-<td>
-    <a href="https://github.com/Haell39/walmart10k">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=walmart10k&theme=tokyonight" alt="Walmart 10k">
-</a>
-</td>
-  
-<td>
-<a href="https://github.com/Haell39/Previsao-risco-credito">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao-risco-credito&theme=tokyonight" alt="Previsão de Risco de Crédito">
-</a>
-</td>
-
+    <td>
+      <a href="https://github.com/Haell39/ClimaPredict_AI">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=ClimaPredict_AI&theme=tokyonight" alt="ClimaPredict AI">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Haell39/Previsao_Preco_de_Imoveis">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao_Preco_de_Imoveis&theme=tokyonight" alt="Previsão Preço de Imóveis">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Haell39/walmart10k">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=walmart10k&theme=tokyonight" alt="Walmart 10k">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Haell39/online_sales-marketplace">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=online_sales-marketplace&theme=tokyonight" alt="Online Sales Marketplace">
+      </a>
+    </td>
   </tr>
 </table>
 
