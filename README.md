@@ -2,9 +2,10 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Meu nome é Rafael, sou estudante de ensino superior em tecnologia com foco em **Ciência e Análise de Dados**. Desenvolvo projetos utilizando **modelagem preditiva**, **estatística** e **visualização de dados** para gerar insights estratégicos.
+Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **visualização de dados**. Também trabalho com **automação de processos** e integração com **APIs**, com o objetivo de transformar dados em **soluções práticas**, **inteligentes** e orientadas à **tomada de decisões**.
+<br><br> 
 
-💼 Já trabalhei em:
+✅ Já trabalhei em:
 
 - Análise de vendas  
 - Predição de câncer de mama  
