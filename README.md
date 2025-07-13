@@ -54,6 +54,7 @@ Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **v
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
 </p>
 
 <h3 align="left">🔹 Workspaces</h3>
