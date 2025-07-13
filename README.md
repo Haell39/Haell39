@@ -5,26 +5,27 @@
 Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **visualização de dados**. Também trabalho com **automação de processos** e integração com **APIs**, com o objetivo de transformar dados em **soluções práticas**, **inteligentes** e orientadas à **tomada de decisões**.
 <br><br> 
 
-✅ Já trabalhei em:
+✅ Já fiz:
 
-- Análise de vendas  
-- Predição de câncer de mama  
-- Análise e predição de rotatividade de funcionários  
-- Outros projetos práticos e relevantes
+- 📈 Análise de Vendas: identificação de padrões e oportunidades de negócio
+- 🧬 Predição de Câncer de Mama: aplicação de modelos de machine learning para diagnóstico precoce
+- 🧑‍💼 Rotatividade de Funcionários (Turnover): análise e predição de saída de colaboradores
+- ⚙️ Automação e Integração com APIs: para otimização de tarefas repetitivas
+- 📚 Outros projetos práticos com aplicação real
 
-📊 Possuo conhecimento em ferramentas como **Excel** e **Power BI**, além de linguagens e bibliotecas como **Python, SQL, PySpark, Scikit-learn, e PyTorch**.
 
-🚀 Atualmente, estou desenvolvendo um projeto completo envolvendo:
+<br>🚀 Atualmente, estou me aprofundando em:
 
-- **SQL e Python**  
-- **Azure Data Factory e Databricks**  
-- **Processamento distribuído com PySpark**  
-- **Integração e orquestração de dados na nuvem**
+- Desenvolvimento de pipelines de dados, com foco em automação e orquestração de processos.
+- Cloud Computing para Dados. Armazenamento, integração e processamento em nuvem.
+- Boas práticas de modelagem e implantação de modelos preditivos em produção.
+- Otimização de consultas SQL e estruturação de dados para análise.
+  
 
-🌐 Portfólio: [rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/) <br>
+<br>🌐 Portfólio: [rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/) <br>
 
 📚 Segue a baixo as minhas redes sociais, as tecnologias que utilizo e meus principais projetos que desenvolvi até o momento
-<br><br>
+<br>
 
 ### 🌐 Socials:
 
