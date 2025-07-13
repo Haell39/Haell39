@@ -7,19 +7,19 @@ Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **v
 
 ✅ Já fiz:
 
-- 📈 Análise de Vendas: identificação de padrões e oportunidades de negócio
-- 🧬 Predição de Câncer de Mama: aplicação de modelos de machine learning para diagnóstico precoce
-- 🧑‍💼 Rotatividade de Funcionários (Turnover): análise e predição de saída de colaboradores
-- ⚙️ Automação e Integração com APIs: para otimização de tarefas repetitivas
+- 📈 **Análise de Vendas**: identificação de padrões e oportunidades de negócio
+- 🧬 **Predição de Câncer de Mama**: aplicação de modelos de machine learning para diagnóstico precoce
+- 🧑‍💼 **Rotatividade de Funcionários (Turnover)**: análise e predição de saída de colaboradores
+- ⚙️ **Automação e Integração com APIs**: para otimização de tarefas repetitivas
 - 📚 Outros projetos práticos com aplicação real
 
 
 <br>🚀 Atualmente, estou me aprofundando em:
 
-- Desenvolvimento de pipelines de dados, com foco em automação e orquestração de processos.
-- Cloud Computing para Dados. Armazenamento, integração e processamento em nuvem.
-- Boas práticas de modelagem e implantação de modelos preditivos em produção.
-- Otimização de consultas SQL e estruturação de dados para análise.
+- Desenvolvimento de pipelines de dados, com foco em automação e orquestração de processos
+- Cloud Computing para Dados. Armazenamento, integração e processamento em nuvem
+- Boas práticas de modelagem e implantação de modelos preditivos em produção
+- Otimização de consultas SQL e estruturação de dados para análise
   
 
 <br>🌐 Portfólio: [rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/) <br>
@@ -32,7 +32,6 @@ Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **v
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@santosrafaelpro) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020F7A.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/raeldata)
 
 </div>
-<br>
 
 <h2 align="center">🔹 Tecnologias Utilizadas 🔹</h2>
 
@@ -54,7 +53,7 @@ Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **v
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </p>
 
 <h3 align="left">🔹 Workspaces</h3>
