@@ -2,7 +2,6 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-## Sobre mim
 
 Desenvolvo projetos aplicando **Ciência de Dados**, **Machine Learning**, **estatística** e **visualização de dados**, com foco em resolver problemas reais e gerar impacto prático. Também atuo com **automação de processos**, **pipelines de dados** e **integração com APIs**, transformando dados brutos em **soluções inteligentes** e orientadas à **tomada de decisão**.
 
