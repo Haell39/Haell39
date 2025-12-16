@@ -2,69 +2,78 @@
 
 # Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
-Eu desenvolvo projetos aplicando **modelagem preditiva**, **estatística** e **visualização de dados**. Também trabalho com **automação de processos** e integração com **APIs**, com o objetivo de transformar dados em **soluções práticas**, **inteligentes** e orientadas à **tomada de decisões**.
-<br><br> 
+---
 
-✅ Já fiz:
+## 👋 Sobre mim
 
-- 📈 **Análise de Vendas**: identificação de padrões e oportunidades de negócio
-- 🧬 **Predição de Câncer de Mama**: aplicação de modelos de machine learning para diagnóstico precoce
-- 🧑‍💼 **Rotatividade de Funcionários (Turnover)**: análise e predição de saída de colaboradores
-- ⚙️ **Automação e Integração com APIs**: para otimização de tarefas repetitivas
-- 📚 Outros projetos práticos com aplicação real
+Desenvolvo projetos aplicando **Ciência de Dados**, **Machine Learning**, **estatística** e **visualização de dados**, com foco em resolver problemas reais e gerar impacto prático. Também atuo com **automação de processos**, **pipelines de dados** e **integração com APIs**, transformando dados brutos em **soluções inteligentes** e orientadas à **tomada de decisão**.
 
+---
 
-<br>🚀 Atualmente, estou me aprofundando em:
+## ✅ Experiência prática com projetos como:
 
-- Desenvolvimento de pipelines de dados, com foco em automação e orquestração de processos
-- Cloud Computing para Dados. Armazenamento, integração e processamento em nuvem
-- Boas práticas de modelagem e implantação de modelos preditivos em produção
-- Otimização de consultas SQL e estruturação de dados para análise
-  
+* 🧬 **Predição de Câncer de Mama** — aplicação de modelos de Machine Learning para apoio ao diagnóstico
+* 🎥 **Horus AI** — Sistema de visão computacional para detecção automática de falhas em transmissões ao vivo, analisando streams de áudio e vídeo em tempo real com geração de métricas e alertas.
+* 🧑‍💼 **Análise e Predição de Turnover** — estudo de fatores de rotatividade e modelagem preditiva
+* 🗺️ **OpenFinance** — pipeline de ingestão e análise de notícias financeiras em tempo real com NLP
+* 📚 Outros projetos práticos com aplicação em cenários reais
 
-<br>🌐 Portfólio: [rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/) <br>
+---
 
-📚 Segue a baixo as minhas redes sociais, as tecnologias que utilizo e meus principais projetos que desenvolvi até o momento
-<br>
+## 🚀 Atualmente, estou me aprofundando em:
 
-### 🌐 Socials:
+* Desenvolvimento de **pipelines de dados automatizados** e escaláveis
+* **Machine Learning em produção**: validação, métricas e integração com sistemas
+* **NLP e LLMs**, incluindo uso de **LangChain** para processamento de texto
+* **Cloud Computing para Dados**: armazenamento, processamento e integração em nuvem
+* **Otimização de consultas SQL** e estruturação de dados para análise
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@santosrafaelpro) [![Kaggle](https://img.shields.io/badge/Kaggle-%23020F7A.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/raeldata)
+---
 
-</div>
+## 🌐 Portfólio
 
-<h2 align="center">🔹 Tecnologias Utilizadas 🔹</h2>
+🔗 **[rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/)**
 
-<h3 align="left">🔹 Ferramentas</h3>
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
+## 🌐 Redes Sociais
 
-<h3 align="left">🔹 Bibliotecas Python</h3>
+* 💼 [LinkedIn](https://linkedin.com/in/rafaelsantoshome)
+* ✍️ [Medium](https://medium.com/@santosrafaelpro)
+* 📊 [Kaggle](https://www.kaggle.com/raeldata)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-009688.svg?style=for-the-badge&logo=seaborn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
-</p>
+---
 
-<h3 align="left">🔹 Workspaces</h3>
+## 🛠️ Tecnologias Utilizadas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+### Linguagens & Ferramentas
+
+* Python
+* SQL
+* Git / GitHub
+* FastAPI
+* Docker
+* Power BI
+
+### Bibliotecas & Frameworks
+
+* Pandas
+* NumPy
+* Scikit-learn
+* Matplotlib
+* Seaborn
+* TensorFlow
+* PyTorch
+* LangChain
+
+### Ambientes de Trabalho
+
+* Jupyter Notebook
+* Google Colab
+* VS Code
+* PyCharm
+
+---
 
 <!-- <h3 align="center">Desenvolvimento</h3>
 
