@@ -26,7 +26,7 @@
 
 ## 🌐 Portfólio
 
-🔗 **[rafaeldutra.netlify.app](https://rafaeldutra.netlify.app/)**
+🔗 **[rafaeldutra.netlify.app](https://rafael-dutra-portfolio.netlify.app)**
 
 ---
 
