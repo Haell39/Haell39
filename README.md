@@ -16,11 +16,9 @@
 
 ## 🚀 Atualmente, estou me aprofundando em:
 
-* Desenvolvimento de **pipelines de dados automatizados** e escaláveis
-* **Machine Learning em produção**: validação, métricas e integração com sistemas
-* **NLP e LLMs**, incluindo uso de **LangChain** para processamento de texto
-* **Cloud Computing para Dados**: armazenamento, processamento e integração em nuvem
-* **Otimização de consultas SQL** e estruturação de dados para análise
+* **Ecossistema Salesforce:** Implementação de Sales/Service Cloud, automações com Flows/Apex e integração de dados.
+* **IA Aplicada:** Desenvolvimento de Agentes autônomos, LLMs (LangChain) e Machine Learning em produção.
+* **Engenharia de Dados & Cloud:** Pipelines escaláveis, otimização SQL e infraestrutura em nuvem.
 
 ---
 
