@@ -1,209 +1,134 @@
-### Sobre mim <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWp5bWdnNDRna255dTAzazBza2p5ZW43bjZrZHd0bXAwYmVsa3MzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="30">
+<div align="center">
 
-# Olá! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+<a href="https://github.com/Haell39">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Rafael+Dutra;Data+Science+and+AI+Development" alt="Typing SVG" />
+</a>
 
+<br/>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafaelsantoshome)
+[![Portfolio](https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://rafael-dutra-portfolio.netlify.app)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/raeldata)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@santosrafaelpro)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldutrapro@gmail.com)
 
-## ✅ Experiência prática com projetos como:
+![Open to Work](https://img.shields.io/badge/🟢_Aberto_a_Oportunidades-Data_Science_%7C_Eng._Dados_%7C_Análise_de_Dados-2ea44f?style=for-the-badge)
 
-* 🧬 **Predição de Câncer de Mama** — aplicação de modelos de Machine Learning para apoio ao diagnóstico
-* 🎥 **Horus AI** — Sistema de visão computacional para detecção automática de falhas em transmissões ao vivo, analisando streams de áudio e vídeo em tempo real com geração de métricas e alertas.
-* 🧑‍💼 **Análise e Predição de Turnover** — estudo de fatores de rotatividade e modelagem preditiva
-* 🗺️ **OpenFinance** — pipeline de ingestão e análise de notícias financeiras em tempo real com NLP
-* 📚 Outros projetos práticos com aplicação em cenários reais
-
----
-
-## 🚀 Atualmente, estou me aprofundando em:
-
-* **Ecossistema Salesforce:** Implementação de Sales/Service Cloud, automações com Flows/Apex e integração de dados.
-* **IA Aplicada:** Desenvolvimento de Agentes autônomos, LLMs (LangChain) e Machine Learning em produção.
-* **Engenharia de Dados & Cloud:** Pipelines escaláveis, otimização SQL e infraestrutura em nuvem.
+</div>
 
 ---
 
-## 🌐 Portfólio
+## Sobre mim
 
-🔗 **[Portifólio Profissional](https://rafael-dutra-portfolio.netlify.app)**
+Sou **Rafael Dutra**, profissional com foco em transformar dados brutos em produtos e insights que geram valor real de negócio. Tenho experiência prática cobrindo todo o ciclo: da **engenharia de dados** (pipelines, APIs REST, Docker) à **ciência de dados** (ML, NLP, modelos preditivos) e à **análise de dados** (EDA, visualização, storytelling).
 
----
+Desenvolvo soluções completas e bem arquitetadas com testes, documentação e práticas de engenharia de software prontas para produção.
 
-## 🌐 Redes Sociais
-
-* 💼 [LinkedIn](https://linkedin.com/in/rafaelsantoshome)
-* ✍️ [Medium](https://medium.com/@santosrafaelpro)
-* 📊 [Kaggle](https://www.kaggle.com/raeldata)
+- 🔭 Projetos ativos em FastAPI, LLMs, Computer Vision e NLP financeiro
+- 🎓 Formação em Ciência de Dados (FICR)
+- 📍 Pernambuco, Brasil · Disponível para trabalho remoto e presencial
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Stack Técnica
 
-### 🔹 Linguagens & Ferramentas
+### Linguagens & Bancos de Dados
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### 🔹 Bibliotecas & Frameworks
+### Frameworks & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+### Machine Learning & IA
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=openai&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### DevOps & Infraestrutura
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Visualização & BI
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-009688?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔹 Ambientes de Trabalho
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
-<!-- <h3 align="center">Desenvolvimento</h3>
-
-<p align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
-  <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/mongodb-svgrepo-com.svg" alt="MongoDB" width="55" height="55"/>
-
-</p> -->
-
-  <!-- <img src="https://raw.githubusercontent.com/Haell39/Images-Icons/refs/heads/main/SVG/tailwindcss-icon-icon-original.svg" alt="Tailwind CSS" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="60" height="60"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="html" width="55" height="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="css" width="50 height="50/>
-
-    
-   -->
-
----
-
-### ✨ Projetos Destacados:
+## Projetos em Destaque
 
 <div align="center">
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Haell39/HR-Analytics">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=HR-Analytics&theme=tokyonight" alt="HR Analytics">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Haell39/ML-Aplicada-Diagnostico-Clinico">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=ML-Aplicada-Diagnostico-Clinico&theme=tokyonight" alt="ML Aplicada Diagnóstico Clínico">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Haell39/ClimaPredict_AI">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=ClimaPredict_AI&theme=tokyonight" alt="ClimaPredict AI">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Haell39/Previsao_Preco_de_Imoveis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=Previsao_Preco_de_Imoveis&theme=tokyonight" alt="Previsão Preço de Imóveis">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Haell39/walmart10k">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=walmart10k&theme=tokyonight" alt="Walmart 10k">
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/Haell39/online_sales-marketplace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Haell39&repo=online_sales-marketplace&theme=tokyonight" alt="Online Sales Marketplace">
-      </a>
-    </td>
-  </tr>
-</table>
+### APIs & Engenharia de Dados
+
+| Projeto                                                                 | Descrição                                                                                                                                                                                                                                                                       | Stack                                                                         |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [**Task Analytics API**](https://github.com/Haell39/task_analytics_API) | API REST profissional para gestão de tarefas com analytics integrado. Arquitetura em camadas (Repository Pattern + DI), testes unitários com fake repository e integração com SQLite in‑memory, migrations Alembic e containerização Docker.                                    | `FastAPI` `PostgreSQL` `SQLAlchemy` `Pydantic v2` `Alembic` `Pytest` `Docker` |
+| [**OpenFinance Intel**](https://github.com/Haell39/OpenFinance_Intel)   | Plataforma de inteligência financeira em tempo real. Pipeline NLP que coleta notícias, Reddit e dados macroeconômicos, classifica sentimento (Bullish/Bearish/Neutral) com spaCy e entrega num dashboard React com Fear & Greed Index, ticker ao vivo e radar de oportunidades. | `FastAPI` `React 18` `MongoDB` `Redis` `spaCy` `TextBlob` `Docker` `Nginx`    |
+
+### IA & Machine Learning
+
+| Projeto                                             | Descrição                                                                                                                                                                                                                                                                                       | Stack                                                                                    |
+| --------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
+| [**Horus AI**](https://github.com/Haell39/horus_ai) | Sistema de monitoramento automatizado de transmissões ao vivo. Três modelos ML analisam simultaneamente vídeo (freeze/fade/blur), áudio (silêncio/ruído/eco) e lipsync, gerando alertas via WebSocket, clipes de evidência e relatórios PDF em tempo real.                                      | `FastAPI` `Angular 19` `TensorFlow` `OpenCV` `Librosa` `PostgreSQL` `WebSocket` `Docker` |
+| [**Vektor**](https://github.com/Haell39/Vektor)     | Micro-SaaS de inteligência de mercado ao vivo. Cruza Google Trends com análise GPT‑4o‑mini para entregar insights acionáveis, previsão de 90 dias (regressão polinomial), mapa geográfico de demanda e histórico persistente em SQLite. **[🚀 Demo ao vivo](https://vektorapp.streamlit.app/)** | `Streamlit` `OpenAI GPT-4o-mini` `pytrends` `Plotly` `SQLite` `Docker`                   |
+
+### Análise de Dados & Ciência de Dados
+
+| Projeto                                                                                  | Descrição                                                                                                                                                                                                                                                          | Stack                                                                            |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| [**HR Analytics — Predição de Turnover**](https://github.com/Haell39/HR-Analytics)       | Pipeline completo de DS para predição de rotatividade corporativa. EDA, SMOTE para desbalanceamento, GridSearchCV com StratifiedKFold e comparação de 5 modelos. **XGBoost alcançou F1-Score de 0.9264**. Modelos salvos em `.pkl` com demonstração de inferência. | `XGBoost` `Random Forest` `Keras` `SMOTE` `GridSearchCV` `Scikit-learn` `Pandas` |
+| [**ML Diagnóstico Clínico**](https://github.com/Haell39/ML-Aplicada-Diagnostico-Clinico) | Classificação de tumores malignos/benignos usando o dataset Breast Cancer Wisconsin. Estudo comparativo de KNN, Árvore de Decisão, MLP e K-Means clustering, com EDA aprofundada, correlações e otimização de hiperparâmetros.                                     | `Scikit-learn` `KNN` `MLP` `K-Means` `Matplotlib` `Seaborn` `Kaggle API`         |
 
 </div>
 
 ---
 
-### 📊 Estatísticas do GitHub:
+## Estatísticas GitHub
 
 <div align="center">
-  <table>
-    <tr>
-    <td style="padding-left: 40px;">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWJ5N2F1eDJsaHplOGt3YWhhYXVxZWY0Y2JwbnZ4M2oyOTZjYWRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
-      </td>
-      <td style="padding-left: 40px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=dark" alt="GitHub Stats">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Langs"/>
 </div>
 
----
-
-### 🌟 Contribuições:
-
 <div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=dark)](https://git.io/streak-stats)
 
-<div align="center">
-  <table>
-    <tr>
-    <td style="padding-left: 40px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyonight&hide_border=true" alt="GitHub Activity">
-      </td>
-      <td style="padding-left: 40px;">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2thaHQydmJpYW1lN2V4dGN5YnZleGZpcXhqbXgzdnF4cHhsNnNxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="200">
-      </td>
-    </tr>
-  </table>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Haell39&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Haell39&theme=tokyo-night&hide_border=true)](https://github.com/Haell39)
 
 </div>
 
 ---
 
-</div>
-
-### 🔝 Repositórios com maior Contribuições
-
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=Haell39&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-</div>
-
----
-
-### ✍️ Reflexão de um Desenvolvedor:
+## Contato
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A+computação+é+nenhuma+outra+coisa+senão+uma+matemática+disfarçada.&author=Edsger+W.+Dijkstra)
+📧 **rafaeldutrapro@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/rafaelsantoshome)** &nbsp;|&nbsp; 🌐 **[Portfólio](https://rafael-dutra-portfolio.netlify.app)**
 
-</div>
-
----
-
-<div align="center">
-
-</div>
-
-### Meu Contato 📞 📩
-
-<div align="center">
-  
-E-mail: rafaeldutrapro@gmail.com 📧<br>
-WhatsApp: 81999654790 📱<br>
+_Aberto a conversas sobre oportunidades em Ciência de Dados, Engenharia de Dados e Análise de Dados._
 
 </div>
