@@ -25,7 +25,7 @@ Sou **Rafael Dutra**, profissional com foco em transformar dados brutos em produ
 Desenvolvo soluções completas e bem arquitetadas com testes, documentação e práticas de engenharia de software prontas para produção.
 
 - 🔭 Projetos ativos em FastAPI, LLMs, Computer Vision e NLP financeiro
-- 🎓 Formação em Ciência de Dados (FICR)
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas (FICR)
 - 📍 Pernambuco, Brasil · Disponível para trabalho remoto e presencial
 
 ---
