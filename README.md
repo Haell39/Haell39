@@ -12,7 +12,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@santosrafaelpro)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldutrapro@gmail.com)
 
-![Open to Work](https://img.shields.io/badge/🟢_Aberto_a_Oportunidades-Data_Science_%7C_Eng._Dados_%7C_Análise_de_Dados-2ea44f?style=for-the-badge)
+![Open to Work](https://img.shields.io/badge/🟢_Aberto_a_Oportunidades-Data_Science_%7C_Software_Engineer-2ea44f?style=for-the-badge)
 
 </div>
 
@@ -105,8 +105,8 @@ Desenvolvo soluções completas e bem arquitetadas com testes, documentação e 
 ## Estatísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Haell39&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haell39&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Haell39&theme=tokyonight" height="170" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Haell39&theme=tokyonight" height="170" alt="Top Langs"/>
 </div>
 
 <div align="center">
@@ -129,6 +129,6 @@ Desenvolvo soluções completas e bem arquitetadas com testes, documentação e 
 
 📧 **rafaeldutrapro@gmail.com** &nbsp;|&nbsp; 💼 **[LinkedIn](https://linkedin.com/in/rafaelsantoshome)** &nbsp;|&nbsp; 🌐 **[Portfólio](https://rafael-dutra-portfolio.netlify.app)**
 
-_Aberto a conversas sobre oportunidades em Ciência de Dados, Engenharia de Dados e Análise de Dados._
+_Aberto a conversas sobre oportunidades em Ciência de Dados e Engenharia de Software._
 
 </div>
